@@ -1,0 +1,316 @@
+#profile_header
+{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+#profile_header .col-md-2
+{
+	height: 100px;
+}
+#profile_header .col-md-2 img
+{
+	height: 100px;
+	width: 100%;
+}
+
+#profile_header .massage_notification_div
+  {
+  	background-color: #d4cff8;
+  	margin-top: 35px;
+  	height: 30px;
+  	width: 90%;
+  	margin-left: 5%;
+  	text-align: center;
+  	font-size: 120%;
+  	
+  	padding-top: 4px;
+  	
+  }
+
+   .notification_no_div
+   {
+
+      margin-top: -30px;
+      height: 30px;
+      margin-left: 85%;
+      text-align: center;
+      border-radius: 50%;
+
+      font-size: 150%;
+
+   }
+
+
+    .massage_no_div
+    {
+        margin-top: -30px;
+        height: 30px;
+        margin-left: 85%;
+        text-align: center;
+        border-radius: 50%;
+
+        font-size: 150%;
+
+    }
+
+
+  #profile_header #profile_header_welcome 
+  {
+
+ 
+    text-align: center;
+
+  }
+
+   #profile_header_welcome_p1
+   {
+   	margin-top: 20px;
+   	font-size: 20px;
+
+   }
+
+   #profile_header_welcome_p2
+   {
+   	margin-top: 20px;
+   	font-size: 20px;
+   }
+
+
+
+   #dashbord_online_user_div
+   {
+    height: 50px;
+   }
+
+  #dashbord_main_body_div
+  {
+    float: left;
+    
+    height: 50px;
+  }   
+
+  #dashbord_buttons_div
+  {
+    height: 50px;
+  }
+
+
+  .online_user_image_div
+  {
+     height: 10px;
+     width: 10px;
+     border-radius: 50%;
+     background-color: red;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*common_view massage_send_view*/
+
+
+.a_online_user 
+{
+  height: 50px; 
+  width: 100%;
+
+}
+
+.a_online_user_main_div 
+{
+  /*margin-top: -5px;*/
+}
+
+.a_online_user_main_div_image_div
+{
+  height: 40px; width: 40px;  margin-top: 5px; float:left; background-color: red; border-radius: 50%;
+}
+.a_online_user_main_div_user_name_div
+{
+  height: 50px; width: 200px; float: left; margin-left: 5px; font-size: 10px;
+}
+
+.a_online_user_main_div_online_green
+{
+  height: 10px; width: 10px; border-radius: 50%; background-color: green; float: left; margin-top: 20px; margin-left: 20px;
+}
+
+
+
+
+
+
+  
+
+
+
+
+
+ #dashbord_main_content_view_div
+ {
+  background-color: #d4cff8; 
+  margin-top: -47px; 
+  height: 500px;
+ }
+
+ #dashbord_main_content_view_hidden_div
+ {
+   background-color: #d4cff8; 
+  margin-top: -47px;
+  height: 500px;
+
+ }
+
+
+
+#week_days
+{
+  background-color: red;
+}
+
+
+#calander_table
+{
+  text-align: center;
+}
+
+#event_add_form
+{
+  /*display: none;*/
+}
+#student_add_form
+{
+  /*display: none;*/
+}
+
+
+
+
+
+@media (max-width: 950px)
+{
+  #profile_header #profile_header_notice
+  {
+  	height: 30px;
+  }
+
+  #profile_header #profile_header_massage
+  {
+  	height: 30px;
+  }
+
+
+  #profile_header #profile_header_welcome
+  {
+  	height: 60px;
+  }
+
+  #profile_header #profile_header_empty
+  {
+  	height: 30px;
+  }
+
+  #profile_header .massage_notification_div
+  {
+  	background-color: #d4cff8;
+  	height: 30px;
+  	width: 80%;
+  	margin-left: 10%;
+  	margin-top: 2px;
+  	border-width: 2px;
+  	
+  }
+
+
+   .notification_no_div
+   {
+      margin-top: -30px;
+      height: 30px;
+      width: 30px;
+      margin-left: 85%;
+
+      border-radius: 50%;
+   }
+
+    .massage_no_div
+    {
+        margin-top: -30px;
+        height: 30px;
+        width: 30px;
+        margin-left: 85%;
+
+        border-radius: 50%;
+
+    }
+
+  #profile_header_welcome_p1
+   {
+   	margin-top: 2px;
+   	font-size: 20px;
+
+   }
+
+   #profile_header_welcome_p2
+   {
+   	margin-top: 2px;
+   	font-size: 20px;
+   }
+  
+  #profile_header .col-md-2 img
+	{
+		height: 100px;
+		width: 30%;
+		margin-left: 35%;
+		text-align: center;
+		font-size: 120%;
+	}
+
+
+
+
+
+  #dashbord_main_nev_div_mid
+  {
+    height: 0px;
+  }
+
+
+
+  #dashbord_main_content_view_div
+ {
+  background-color: #d4cff8; 
+  margin-top: 15px; 
+  height: 500px;
+ }
+
+ #dashbord_main_content_view_hidden_div
+ {
+   background-color: #d4cff8; 
+  margin-top: 15px; 
+  height: 500px;
+  display: none;
+ }
+
+
+
+
+
+}
+

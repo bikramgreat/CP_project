@@ -1,0 +1,37 @@
+#sand_massage_div
+{
+	/*display: none;*/
+}
+
+.searched_user_div
+{
+	width: 100%; 
+	float: left;
+	margin-top: 10px; 
+	background-color: #cce2e8;
+}
+
+.searched_user_image_div
+{
+	height: 40px; 
+	width: 40px; 
+	background-color: green; 
+	float: left; 
+	border-radius: 50%;
+}
+
+.searched_user_name_div
+{
+	float:left; 
+	height:40px;
+	width: 70%; 
+	margin-left:5px; 
+	border-radius: 5px 10px 5px 10px / 10px 5px 10px 5px;
+}
+
+.searched_user_name_div p
+{
+	color: #5b8bec; 
+	font-size: 20px; 
+	margin-top: 0px;
+}
